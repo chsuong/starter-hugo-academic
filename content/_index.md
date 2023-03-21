@@ -106,7 +106,8 @@ sections:
 #      #   Leave other parameters empty if not required.
 #      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        -  date_end: ''
+        - certificate_url: https://www.edx.org
+          date_end: ''
           date_start: '2021-01-25'
           description: ''
           organization: Coursera
