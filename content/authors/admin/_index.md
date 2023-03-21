@@ -83,5 +83,5 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Clara H. Suong is an assistant professor of political science at Virginia Tech. She studies the role of information in International Relations, using computational, formal, and experimental methods. Her research interests include International Relations, International Security, diplomacy, computational social science, survey experiments, and formal modeling.
 {style="text-align: justify;"}
