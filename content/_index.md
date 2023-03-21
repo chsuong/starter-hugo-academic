@@ -159,7 +159,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: portfolio
+<!--  - block: portfolio
     id: projects
     content:
       title: Projects
@@ -185,7 +185,7 @@ sections:
       columns: '1'
       view: showcase
       # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
+      flip_alt_rows: false-->
 #  - block: markdown
 #    content:
 #      title: Gallery
