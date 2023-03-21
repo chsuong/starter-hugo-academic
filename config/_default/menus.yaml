@@ -11,13 +11,7 @@ main:
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
    - name: CV
      url: uploads/resume.pdf
-    weight: 70
- # - name: Posts
- #   url: '#posts'
- #   weight: 20
- # - name: Projects
- #   url: '#projects'
- #   weight: 30
+     weight: 70
   - name: Publications
     url: '#pubs'
     weight: 50
@@ -27,5 +21,10 @@ main:
   - name: Contact
     url: '#contact'
     weight: 60
-
+ # - name: Posts
+ #   url: '#posts'
+ #   weight: 20
+ # - name: Projects
+ #   url: '#projects'
+ #   weight: 30
 
