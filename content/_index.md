@@ -225,7 +225,7 @@ sections:
     content:
       title: Selected Working Papers
       text: |-
-      Suong, Clara H., Scott Desposato, and Erik Gartzke. “Internationalism, Militarism, and IO Influence on Public Opinion in China, Brazil, Japan, and Sweden.” Aug 24, 2022. Available at SSRN: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4262069">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4262069</a>. Under Review.
+      Suong, Clara H., Scott Desposato, and Erik Gartzke. “Internationalism, Militarism, and IO Influence on Public Opinion in China, Brazil, Japan, and Sweden.” Aug 24, 2022. Available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4262069. Under Review.
       
       Suong, Clara H. “Unattributable Communication and Support for Covert Action." Under Review.
 #        {{% callout note %}}
