@@ -63,7 +63,7 @@ sections:
       title: Experience
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: 2006
+      date_format: Jan 2006
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
@@ -72,17 +72,17 @@ sections:
       items:
         - title: Assistant Professor
           company: Department of Political Science, Virginia Tech
-          company_url: ''
+          company_url: 'https://liberalarts.vt.edu/departments-and-schools/department-of-political-science/faculty/clara-suong.html'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Blacksburg, Virginia
+          date_start: '2021-08-23'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+#          description: |2-
+#              Responsibilities include:
+#
+#              * Analysing
+#              * Modelling
+#              * Deploying
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
