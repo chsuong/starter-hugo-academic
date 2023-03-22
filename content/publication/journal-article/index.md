@@ -32,10 +32,10 @@ tags:
 - Source Themes
 featured: false
 
-# links:
+links:
 # - name: ""
 #   url: ""
-# url_pdf: 'publication/journal-article/dem_peace.pdf'
+url_pdf: 'content/publication/journal-article/dem_peace.pdf'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PNDP4V'
 # url_poster: ''
