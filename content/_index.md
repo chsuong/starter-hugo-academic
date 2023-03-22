@@ -138,7 +138,8 @@ sections:
       items:
 #        - certificate_url: https://www.edx.org
         - title: Ph.D. in Political Science
-          organization: University of California, San Diego
+          organization: Department of Political Science, University of California, San Diego
+          organization_url: 'https://polisci.ucsd.edu/'
           date_start: '2012-09-25'
           date_end: '2018-12-31'
 #          description: ''
