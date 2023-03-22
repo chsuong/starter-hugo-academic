@@ -274,6 +274,17 @@ sections:
     id: talks
     content:
       title: Selected Presentations
+      text: |-
+      Annual Meeting of the Midwest Political Science Association: 2023 (Scheduled)
+      Invited Talk, Georgetown University, Spring 2023
+      North American Meeting of the Peace Science Society (International), University of Denver, November 2022
+      Annual Meeting of the American Political Science Association: 2023 (Scheduled), 2022, 2021, 2018, 2017 (Pre-Conference)
+      Society for Political Methodology Annual Meeting: 2022, 2021, 2019, 2018, 2017
+      National Security Institute, Virginia Tech (Virtual), February 2022
+      Center for Humanities, Virginia Tech (Virtual), February 2021
+      Proxy Wars Conference, George Washington University, September 2016
+      Experiments in International Relations Conference, Princeton University, May 2014
+      Southern California Comparative Political Science Conference, UC Santa Barbara, September 2013
       filters:
         folders:
           - talks
