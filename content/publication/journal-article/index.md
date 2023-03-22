@@ -35,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'content/project/publication/dem_peace.pdf'
+url_pdf: 'content/project/publication/journal-article/dem_peace.pdf'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PNDP4V'
 # url_poster: ''
