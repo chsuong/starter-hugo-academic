@@ -276,7 +276,7 @@ sections:
       title: Selected Presentations
       filters:
         folders:
-          - event
+          - talks
     design:
       columns: '2'
 #      view: compact
