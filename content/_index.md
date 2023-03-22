@@ -73,7 +73,7 @@ sections:
         - title: Assistant Professor
           company: Department of Political Science, Virginia Tech
           company_url: 'https://liberalarts.vt.edu/departments-and-schools/department-of-political-science/faculty/clara-suong.html'
-          company_logo: org-gc
+#          company_logo: org-gc
           location: Blacksburg, Virginia
           date_start: '2021-08-23'
           date_end: ''
@@ -86,7 +86,7 @@ sections:
         - title: Visiting Assistant Professor
           company: Department of Political Science, Virginia Tech
           company_url: 'https://liberalarts.vt.edu/departments-and-schools/department-of-political-science/faculty/clara-suong.html'
-          company_logo: org-gc
+#          company_logo: org-gc
           location: Blacksburg, Virginia
           date_start: '2020-08-24'
           date_end: '2021-08-22'
@@ -99,7 +99,7 @@ sections:
         - title: Postdoctoral Research Associate
           company: Department of Political Science, Duke University
 #          company_url: 'https://liberalarts.vt.edu/departments-and-schools/department-of-political-science/faculty/clara-suong.html'
-          company_logo: org-gc
+#          company_logo: org-gc
           location: Durham, North Carolina
           date_start: '2019-09-01'
           date_end: '2020-08-23'
@@ -112,7 +112,7 @@ sections:
         - title: Postdoctoral Research Associate
           company: Center for Data Science and Department of Politics, New York University
           company_url: 'https://cds.nyu.edu/past-members/'
-          company_logo: org-gc
+#          company_logo: org-gc
           location: New York, New York
           date_start: '2018-09-01'
           date_end: '2019-08-31'
