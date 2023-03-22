@@ -265,7 +265,7 @@ sections:
 #        {{% /callout %}}
       filters:
         folders:
-          - publication
+          - working
         exclude_featured: false
     design:
       columns: '2'
