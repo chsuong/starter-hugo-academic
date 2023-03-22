@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "How 'Democratic' is the Democratic Peace? A Survey Experiment of Foreign Policy Preferences in Brazil and China"
 authors:
 - admin
 - Scott Desposato
