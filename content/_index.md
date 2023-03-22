@@ -74,7 +74,7 @@ sections:
           company: Department of Political Science, Virginia Tech
           company_url: 'https://liberalarts.vt.edu/departments-and-schools/department-of-political-science/faculty/clara-suong.html'
           company_logo: org-gc
-          location: Virginia
+          location: Blacksburg, Virginia
           date_start: '2021-08-23'
           date_end: ''
 #          description: |2-
@@ -87,7 +87,7 @@ sections:
           company: Department of Political Science, Virginia Tech
           company_url: 'https://liberalarts.vt.edu/departments-and-schools/department-of-political-science/faculty/clara-suong.html'
           company_logo: org-gc
-          location: Virginia
+          location: Blacksburg, Virginia
           date_start: '2020-08-24'
           date_end: '2021-08-22'
 #          description: |2-
@@ -100,7 +100,7 @@ sections:
           company: Department of Political Science, Duke University
 #          company_url: 'https://liberalarts.vt.edu/departments-and-schools/department-of-political-science/faculty/clara-suong.html'
           company_logo: org-gc
-          location: North Carolina
+          location: Durham, North Carolina
           date_start: '2019-09-01'
           date_end: '2020-08-23'
 #          description: |2-
@@ -113,7 +113,7 @@ sections:
           company: Center for Data Science and Department of Politics, New York University
           company_url: 'https://cds.nyu.edu/past-members/'
           company_logo: org-gc
-          location: New York
+          location: New York, New York
           date_start: '2018-09-01'
           date_end: '2019-08-31'
 #          description: |2-
