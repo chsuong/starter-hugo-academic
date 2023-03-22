@@ -294,6 +294,7 @@ sections:
         Experiments in International Relations Conference, Princeton University, May 2014
         
         Southern California Comparative Political Science Conference, UC Santa Barbara, September 2013
+        
       filters:
         folders:
           - talks
