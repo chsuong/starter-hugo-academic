@@ -98,7 +98,7 @@ sections:
 #              * Deploying
         - title: Postdoctoral Research Associate
           company: Department of Political Science, Duke University
-*          company_url: 'https://liberalarts.vt.edu/departments-and-schools/department-of-political-science/faculty/clara-suong.html'
+#          company_url: 'https://liberalarts.vt.edu/departments-and-schools/department-of-political-science/faculty/clara-suong.html'
           company_logo: org-gc
           location: North Carolina
           date_start: '2019-09-01'
