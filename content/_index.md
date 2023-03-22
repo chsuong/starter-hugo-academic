@@ -83,14 +83,19 @@ sections:
 #              * Analysing
 #              * Modelling
 #              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+        - title: Visiting Assistant Professor
+          company: Department of Political Science, Virginia Tech
+          company_url: 'https://liberalarts.vt.edu/departments-and-schools/department-of-political-science/faculty/clara-suong.html'
+          company_logo: org-gc
+          location: Blacksburg, Virginia
+          date_start: '2020-08-24'
+          date_end: ''
+#          description: |2-
+#              Responsibilities include:
+#
+#              * Analysing
+#              * Modelling
+#              * Deploying
     design:
       columns: '2'
   - block: accomplishments
