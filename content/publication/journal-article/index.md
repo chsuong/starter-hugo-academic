@@ -56,7 +56,7 @@ url_dataset: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.79
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+# projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
