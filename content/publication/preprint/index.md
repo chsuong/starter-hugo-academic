@@ -34,7 +34,7 @@ abstract: Right after the 1936 election the Gallup Poll began probing party iden
 links:
 # - name: ""
 #   url: ""
-url_pdf: 'uploads/new_deal.pdf'
+url_pdf: 'uploads/norpoth_et_al_2013.pdf'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PNDP4V'
 # url_poster: ''
