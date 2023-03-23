@@ -24,7 +24,7 @@ publication_types: ["6"]
 publication: "*Proxy Wars: Suppressing Violence Through Local Agents*"
 publication_short: ""
 
-abstract: Recent research has shown that British and American respondents are less willing to advocate the use of force against fellow democracies than against non-democracies (Tomz and Weeks, 2013). These findings may contribute to understandings of the 'democratic bias'—unwillingness to attack democracies. A critical next step is assessing whether publics beyond the US and the UK have similar attitudes. To address the scope of popular preferences for peace with democracies, we conduct survey experiments using online panels in two emerging powers, one a democracy (Brazil) and one a non-democracy (China). Our survey randomly varies the hypothetical target's regime type and authorization by the United Nations for military action. We find that Brazilian respondents are significantly less likely to support the use of force against a democracy than a non-democracy. However, after controlling for UN approval, Chinese respondents do not appear to distinguish between democracies and non-democracies when considering whether force is justified. In addition, for both countries, UN approval has a larger effect than democracy on public support for the use of force.
+# abstract: Recent research has shown that British and American respondents are less willing to advocate the use of force against fellow democracies than against non-democracies (Tomz and Weeks, 2013). These findings may contribute to understandings of the 'democratic bias'—unwillingness to attack democracies. A critical next step is assessing whether publics beyond the US and the UK have similar attitudes. To address the scope of popular preferences for peace with democracies, we conduct survey experiments using online panels in two emerging powers, one a democracy (Brazil) and one a non-democracy (China). Our survey randomly varies the hypothetical target's regime type and authorization by the United Nations for military action. We find that Brazilian respondents are significantly less likely to support the use of force against a democracy than a non-democracy. However, after controlling for UN approval, Chinese respondents do not appear to distinguish between democracies and non-democracies when considering whether force is justified. In addition, for both countries, UN approval has a larger effect than democracy on public support for the use of force.
 
 # Summary. An optional shortened abstract.
 summary: In Brazil and China, UN approval has a larger effect than democracy on public support for the use of force.
@@ -36,7 +36,7 @@ summary: In Brazil and China, UN approval has a larger effect than democracy on 
 links:
 # - name: ""
 #   url: ""
-url_pdf: 'uploads/dem_peace.pdf'
+url_pdf: 'uploads/suong_2019.pdf'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PNDP4V'
 # url_poster: ''
