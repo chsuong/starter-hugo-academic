@@ -1,11 +1,12 @@
 ---
 title: "How 'Democratic' is the Democratic Peace? A Survey Experiment of Foreign Policy Preferences in Brazil and China"
 authors:
+- Helmut Norpoth
+- Andrew H. Sidman 
 - admin
-- Scott Desposato
-- Erik Gartzke
-date: "2023-04-22T00:00:00Z"
-doi: "10.1590/1981-3821202000010002"
+
+date: "2013-02-18T00:00:00Z"
+doi: "10.1111/psq.12007"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -14,16 +15,16 @@ doi: "10.1590/1981-3821202000010002"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Brazilian Political Science Review*, 14(1)"
+publication: "*Presidential Studies Quarterly*, 43(1)"
 publication_short: ""
 
-abstract: Recent research has shown that British and American respondents are less willing to advocate the use of force against fellow democracies than against non-democracies (Tomz and Weeks, 2013). These findings may contribute to understandings of the 'democratic bias'—unwillingness to attack democracies. A critical next step is assessing whether publics beyond the US and the UK have similar attitudes. To address the scope of popular preferences for peace with democracies, we conduct survey experiments using online panels in two emerging powers, one a democracy (Brazil) and one a non-democracy (China). Our survey randomly varies the hypothetical target's regime type and authorization by the United Nations for military action. We find that Brazilian respondents are significantly less likely to support the use of force against a democracy than a non-democracy. However, after controlling for UN approval, Chinese respondents do not appear to distinguish between democracies and non-democracies when considering whether force is justified. In addition, for both countries, UN approval has a larger effect than democracy on public support for the use of force.
+abstract: Right after the 1936 election the Gallup Poll began probing party identification. From then on until 1952, when the National Election Studies entered the field, nearly 200 surveys produced measurements of partisanship in the American electorate. We exploit this largely unexplored data set to examine the partisan transformation commonly called the New Deal Realignment in real time. It turns out that it was not until the late 1940s that the Democratic Party secured an enduring hold on the American electorate. The New Deal and the Depression had less to do with this change than did World War II and the postwar prosperity. The lead cohort of the Democratic surge in party identification was the generation that came of age during the 1940s, not the 1930s. The findings suggest that a historic crisis or a new policy program may not be enough to realign partisanship in the electorate but that it takes the success of the ascendant party in mastering historic crises.
 
 # Summary. An optional shortened abstract.
-summary: In Brazil and China, UN approval has a larger effect than democracy on public support for the use of force.
+# summary: In Brazil and China, UN approval has a larger effect than democracy on public support for the use of force.
 
 # tags:
 # - Source Themes
@@ -32,9 +33,9 @@ summary: In Brazil and China, UN approval has a larger effect than democracy on 
 links:
 # - name: ""
 #   url: ""
-url_pdf: 'uploads/dem_peace.pdf'
+url_pdf: 'uploads/new_deal.pdf'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PNDP4V'
+# url_dataset: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PNDP4V'
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
