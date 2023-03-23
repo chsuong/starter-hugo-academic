@@ -21,7 +21,7 @@ doi: "10.7591/9781501733093-009"
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Proxy Wars: Suppressing Violence Through Local Agents* in Eli Berman and David A. Lake (Eds.)"
+publication: "*Proxy Wars: Suppressing Violence Through Local Agents* by Eli Berman and David A. Lake (Eds.)"
 publisher: Cornell University Press
 publication_short: ""
 
