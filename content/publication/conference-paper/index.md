@@ -38,7 +38,7 @@ links:
 #   url: ""
  url_pdf: 'uploads/connelly_et_al_2021.pdf'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-# url_dataset: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PNDP4V'
+ url_dataset: 'https://github.com/chsuong/chronos_data_intro'
 # url_poster: ''
 # url_project: ''
 # url_slides: ''
