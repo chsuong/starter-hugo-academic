@@ -1,5 +1,5 @@
 ---
-title: "*Polls and Elections*: The New Deal Realignment in Real Time"
+title: "Polls and Elections: The New Deal Realignment in Real Time"
 authors:
 - Helmut Norpoth
 - Andrew H. Sidman 
@@ -20,6 +20,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "*Presidential Studies Quarterly*, 43(1)"
 publication_short: ""
+pages: 146-166
 
 abstract: Right after the 1936 election the Gallup Poll began probing party identification. From then on until 1952, when the National Election Studies entered the field, nearly 200 surveys produced measurements of partisanship in the American electorate. We exploit this largely unexplored data set to examine the partisan transformation commonly called the New Deal Realignment in real time. It turns out that it was not until the late 1940s that the Democratic Party secured an enduring hold on the American electorate. The New Deal and the Depression had less to do with this change than did World War II and the postwar prosperity. The lead cohort of the Democratic surge in party identification was the generation that came of age during the 1940s, not the 1930s. The findings suggest that a historic crisis or a new policy program may not be enough to realign partisanship in the electorate but that it takes the success of the ascendant party in mastering historic crises.
 
