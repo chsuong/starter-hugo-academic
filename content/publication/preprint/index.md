@@ -1,5 +1,5 @@
 ---
-title: "How 'Democratic' is the Democratic Peace? A Survey Experiment of Foreign Policy Preferences in Brazil and China"
+title: "*Polls and Elections*: The New Deal Realignment in Real Time"
 authors:
 - Helmut Norpoth
 - Andrew H. Sidman 
