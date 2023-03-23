@@ -10,7 +10,6 @@ authors:
 # - "Equal contribution"
 date: "2019-04-22T00:00:00Z"
 doi: "10.7591/9781501733093-009"
-pages: 159–184
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -22,7 +21,7 @@ pages: 159–184
 publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Suppressing Violence Through Local Agents*"
+publication: "*Proxy Wars: Suppressing Violence Through Local Agents*"
 publication_short: ""
 
 abstract: Recent research has shown that British and American respondents are less willing to advocate the use of force against fellow democracies than against non-democracies (Tomz and Weeks, 2013). These findings may contribute to understandings of the 'democratic bias'—unwillingness to attack democracies. A critical next step is assessing whether publics beyond the US and the UK have similar attitudes. To address the scope of popular preferences for peace with democracies, we conduct survey experiments using online panels in two emerging powers, one a democracy (Brazil) and one a non-democracy (China). Our survey randomly varies the hypothetical target's regime type and authorization by the United Nations for military action. We find that Brazilian respondents are significantly less likely to support the use of force against a democracy than a non-democracy. However, after controlling for UN approval, Chinese respondents do not appear to distinguish between democracies and non-democracies when considering whether force is justified. In addition, for both countries, UN approval has a larger effect than democracy on public support for the use of force.
