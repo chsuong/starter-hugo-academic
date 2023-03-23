@@ -1,7 +1,7 @@
 ---
 title: "6. PAKISTAN, 2001–11: Washington’s Small Stick"
 
-." In Eli Berman, David A. Lake (Eds.), Proxy Wars: Suppressing Violence through Local Agents (pp. 159–184). Ithaca, NY: Cornell University Press. doi: Link to Offprint
+# In Eli Berman, David A. Lake (Eds.), Proxy Wars: Suppressing Violence through Local Agents (pp. ). Ithaca, NY: Cornell University Press
 
 authors:
 - admin
@@ -10,6 +10,7 @@ authors:
 # - "Equal contribution"
 date: "2019-04-22T00:00:00Z"
 doi: "10.7591/9781501733093-009"
+pages: 159–184
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
