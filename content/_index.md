@@ -244,9 +244,9 @@ sections:
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/).
 #        {{% /callout %}}
-      filters:
-        folders:
-          - publication
+#      filters:
+#        folders:
+#          - publication
         exclude_featured: false
     design:
       columns: '2'
