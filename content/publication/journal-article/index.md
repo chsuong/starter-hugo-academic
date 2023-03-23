@@ -28,9 +28,9 @@ abstract: Recent research has shown that British and American respondents are le
 # Summary. An optional shortened abstract.
 summary: In Brazil and China, UN approval has a larger effect than democracy on public support for the use of force.
 
-tags:
-- Source Themes
-featured: false
+# tags:
+# - Source Themes
+# featured: false
 
 links:
 # - name: ""
