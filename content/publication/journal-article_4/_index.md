@@ -5,8 +5,8 @@ authors:
 - Scott Desposato
 - Erik Gartzke
 
-date: "2013-02-18T00:00:00Z"
-doi: "10.1111/psq.12007"
+date: "2023-02-18T00:00:00Z"
+# doi: "10.1111/psq.12007"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
