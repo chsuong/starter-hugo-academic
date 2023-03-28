@@ -239,7 +239,7 @@ sections:
   - block: collection
     id: pubs
     content:
-      title: Peer-Reviewed Publications and Accepted Works
+      title: Peer-Reviewed Publications
 #      text: |-
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/).
