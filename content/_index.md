@@ -315,7 +315,7 @@ sections:
       title: Teaching
       text: |-
         
-        Foundations of Security Environments (cross-listed in Computer Science and Business Information Technology, Department of Political Science, Virginia Tech
+        Foundations of Security Environments (cross-listed in Computer Science and Business Information Technology), Department of Political Science, Virginia Tech
         
         National Security, Department of Political Science, Virginia Tech
         
