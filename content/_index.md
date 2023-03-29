@@ -314,7 +314,6 @@ sections:
     content:
       title: Teaching
       text: |-
-        
         Foundations of Security Environments (cross-listed in Computer Science and Business Information Technology), Department of Political Science, Virginia Tech
         
         National Security, Department of Political Science, Virginia Tech
@@ -324,7 +323,12 @@ sections:
         Data Analytics for the Social Sciences (cross-listed in Economics), Department of Political Science, UC San Diego
         
         World Politics, Department of Political Science, Stony Brook University
-        
+
+      filters:
+        folders:
+          - teaching
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
