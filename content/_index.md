@@ -309,6 +309,22 @@ sections:
 #      title: Popular Topics
 #    design:
 #      columns: '2'
+  - block: collection
+    id: teaching
+    content:
+      title: Teaching
+      text: |-
+        
+        Foundations of Security Environments (cross-listed in Computer Science and Business Information Technology, Department of Political Science, Virginia Tech
+        
+        National Security, Department of Political Science, Virginia Tech
+        
+        Research Methods II (Graduate), Department of Political Science, Virginia Tech
+        
+        Data Analytics for the Social Sciences (cross-listed in Economics), Department of Political Science, UC San Diego
+        
+        World Politics, Department of Political Science, Stony Brook University
+        
   - block: contact
     id: contact
     content:
