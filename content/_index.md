@@ -278,7 +278,9 @@ sections:
     content:
       title: Selected Presentations
       text: |-
-        Annual Meeting of the Midwest Political Science Association: 2023 (Scheduled)
+        Workshop on Diplomats and Bureaucrats in International Relations, Niehaus Center for Globalization and Governance, Princeton University, 2023 (Scheduled)
+        
+        Annual Meeting of the Midwest Political Science Association: 2023
       
         Invited Talk, Georgetown University, Spring 2023
       
