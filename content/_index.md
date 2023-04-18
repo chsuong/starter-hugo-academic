@@ -257,7 +257,7 @@ sections:
       title: Selected Accepted and Working Papers
       text: |-
         
-        **Suong, Clara H.**, Scott Desposato, and Erik Gartzke. “Thinking Generically and Specifically in International Relations Survey Experiments.” Accepted. *Research and Politics*. Older version available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4262076.
+#        **Suong, Clara H.**, Scott Desposato, and Erik Gartzke. “Thinking Generically and Specifically in International Relations Survey Experiments.” Accepted. *Research and Politics*. Older version available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4262076.
         
         **Suong, Clara H.**, Scott Desposato, and Erik Gartzke. “Internationalism, Militarism, and IO Influence on Public Opinion in China, Brazil, Japan, and Sweden.” Aug 24, 2022. Available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4262069. Under Review.
         
