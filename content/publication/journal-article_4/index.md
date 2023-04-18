@@ -34,7 +34,7 @@ abstract: Does treatment abstraction affect treatment effects in International R
 links:
 # - name: ""
 #   url: ""
-url_pdf: 'uploads/norpoth_et_al_2013.pdf'
+url_pdf: 'uploads/suong_et_al_2023.pdf'
 # url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PNDP4V'
 # url_poster: ''
