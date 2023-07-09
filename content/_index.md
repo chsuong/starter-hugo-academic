@@ -259,7 +259,7 @@ sections:
       
         **Suong, Clara H.**, Scott Desposato, and Erik Gartzke. “Ubiquitous but Inconsistent: Internationalism, Militarism, and IO Influence on Public Opinion in China, Brazil, Japan, and Sweden.” 2023. Older Version Available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4262069. Under Review.
         
-        **Suong, Clara H.** “Unnamed but Credible? Unattributable Communication in Foreign Policy." Under Review.
+        **Suong, Clara H.** “Unnamed but Credible? Unattributable Communication and Foreign Policy." Under Review.
         
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/).
