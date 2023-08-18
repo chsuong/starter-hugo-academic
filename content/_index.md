@@ -282,6 +282,7 @@ sections:
         Journeys in World Politics Workshop, University of Wisconsin, Madison, 2023 (Scheduled)
 
         Workshop on Diplomats and Bureaucrats in International Relations, Niehaus Center for Globalization and Governance, Princeton University, 2023 
+
         Invited Talk, Georgetown University, Spring 2023
 
         Annual Meeting of the American Political Science Association: 2023 (Scheduled), 2022, 2021, 2018, 2017 (Pre-Conference)
