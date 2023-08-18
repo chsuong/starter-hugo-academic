@@ -279,16 +279,17 @@ sections:
     content:
       title: Selected Presentations
       text: |-
-        Workshop on Diplomats and Bureaucrats in International Relations, Niehaus Center for Globalization and Governance, Princeton University, 2023 (Scheduled)
-        
-        Annual Meeting of the Midwest Political Science Association: 2023
-      
+        Journeys in World Politics Workshop, University of Wisconsin, Madison, 2023 (Scheduled)
+
+        Workshop on Diplomats and Bureaucrats in International Relations, Niehaus Center for Globalization and Governance, Princeton University, 2023 
         Invited Talk, Georgetown University, Spring 2023
-      
-        North American Meeting of the Peace Science Society (International), University of Denver, November 2022
-      
+
         Annual Meeting of the American Political Science Association: 2023 (Scheduled), 2022, 2021, 2018, 2017 (Pre-Conference)
-      
+
+        Annual Meeting of the Midwest Political Science Association: 2023
+    
+        North American Meeting of the Peace Science Society (International), University of Denver, November 2022
+            
         Society for Political Methodology Annual Meeting: 2022, 2021, 2019, 2018, 2017
         
         National Security Institute, Virginia Tech (Virtual), February 2022
