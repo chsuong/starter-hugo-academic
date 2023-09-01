@@ -261,8 +261,7 @@ sections:
         
         **Suong, Clara H.** “Unnamed but Credible? Unattributable Communication and Foreign Policy." Under Review.
 
-        **Suong, Clara H.** “Authoritarian Media Coverage of International News: The Case of North Korea." Accepted. See an early version at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4559428
-
+        **Suong, Clara H.** “Authoritarian Media Coverage of International News: The Case of North Korea." Accepted. See an early version at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4559456
         
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/).
