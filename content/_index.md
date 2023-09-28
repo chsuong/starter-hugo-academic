@@ -239,7 +239,7 @@ sections:
   - block: collection
     id: pubs
     content:
-      title: Peer-Reviewed Publications and Accepted Papers
+      title: Peer-Reviewed Publications 
 #      text: |-
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/).
@@ -254,9 +254,11 @@ sections:
   - block: collection
     id: working
     content:
-      title: Selected Working Papers
+      title: Selected Accepted and Working Papers
       text: |-
       
+        **Suong, Clara H.** “Authoritarian Media Coverage of International News: The Case of North Korea." Accepted. See an early version at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4559456
+
         **Suong, Clara H.**, Scott Desposato, and Erik Gartzke. “Ubiquitous but Inconsistent: Internationalism, Militarism, and IO Influence on Public Opinion in China, Brazil, Japan, and Sweden.” 2023. Older version available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4262069. Under Review.
         
         **Suong, Clara H.** “Unnamed but Credible? Unattributable Communication and Foreign Policy." Under Review.
