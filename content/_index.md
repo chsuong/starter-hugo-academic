@@ -278,6 +278,8 @@ sections:
     content:
       title: Selected Presentations
       text: |-
+        North American Meeting of the Peace Science Society (International), Washington University in St. Louis,  2023 (Scheduled)
+
         Journeys in World Politics Workshop, University of Wisconsin, Madison, 2023 (Scheduled)
 
         Workshop on Diplomats and Bureaucrats in International Relations, Niehaus Center for Globalization and Governance, Princeton University, 2023 
