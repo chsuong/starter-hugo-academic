@@ -22,7 +22,7 @@ organizations:
     url: https://liberalarts.vt.edu/departments-and-schools/department-of-political-science/faculty/clara-suong.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: I study the role of information in International Relations, using computational, formal, and experimental methods.
+bio: I study the role of information and individuals in International Relations, using computational, formal, and experimental methods. 
 
 # Interests to show in About widget
 interests:
