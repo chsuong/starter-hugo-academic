@@ -278,9 +278,13 @@ sections:
     content:
       title: Selected Presentations
       text: |-
-        North American Meeting of the Peace Science Society (International), Washington University in St. Louis,  2023 (Scheduled)
+        SOWEPS Workshop, Vanderbilt University,  2024 (Scheduled)
 
-        Journeys in World Politics Workshop, University of Wisconsin, Madison, 2023 (Scheduled)
+        American Political Science Association Virtual Research Group Meeting,  2024 (Scheduled)
+
+        North American Meeting of the Peace Science Society (International), Washington University in St. Louis,  2023 
+
+        Journeys in World Politics Workshop, University of Wisconsin, Madison, 2023 
 
         Workshop on Diplomats and Bureaucrats in International Relations, Niehaus Center for Globalization and Governance, Princeton University, 2023 
 
