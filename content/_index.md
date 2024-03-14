@@ -263,7 +263,7 @@ sections:
 
         “Ubiquitous but Inconsistent: Internationalism, Militarism, and IO Influence on Public Opinion in China, Brazil, Japan, and Sweden.” With Scott Desposato and Erik Gartzke. Older version available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4262069. Under Review.
         
-        “The Perks of Using Uncommon Survey Designs in IR Experiments: The Case of Quasi-Within-Subjects Designs.” With Scott Desposato and Erik Gartzke.
+        “The Perks of Using Uncommon Survey Designs in IR Experiments.” With Scott Desposato and Erik Gartzke.
         
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/).
