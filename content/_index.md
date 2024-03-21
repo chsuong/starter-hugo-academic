@@ -282,7 +282,7 @@ sections:
       text: |-
         SOWEPS Workshop, Vanderbilt University,  2024 (Scheduled)
 
-        American Political Science Association Virtual Research Group Meeting,  2024 (Scheduled)
+        American Political Science Association Virtual Research Group Meeting,  2024 
 
         North American Meeting of the Peace Science Society (International), Washington University in St. Louis,  2023 
 
@@ -292,7 +292,7 @@ sections:
 
         Invited Talk, Georgetown University, Spring 2023
 
-        Annual Meeting of the American Political Science Association: 2023 (Scheduled), 2022, 2021, 2018, 2017 (Pre-Conference)
+        Annual Meeting of the American Political Science Association: 2024 (Scheduled), 2023, 2022, 2021, 2018, 2017 (Pre-Conference)
 
         Annual Meeting of the Midwest Political Science Association: 2023
     
