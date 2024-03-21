@@ -280,6 +280,11 @@ sections:
     content:
       title: Selected Presentations
       text: |-
+ 
+       Annual Meeting of the American Political Science Association: 2024 (Scheduled), 2023, 2022, 2021, 2018, 2017 (Pre-Conference)
+
+        Annual Meeting of the Midwest Political Science Association: 2024 (Scheduled), 2023
+ 
         SOWEPS Workshop, Vanderbilt University,  2024 (Scheduled)
 
         American Political Science Association Virtual Research Group Meeting,  2024 
@@ -291,11 +296,7 @@ sections:
         Workshop on Diplomats and Bureaucrats in International Relations, Niehaus Center for Globalization and Governance, Princeton University, 2023 
 
         Invited Talk, Georgetown University, Spring 2023
-
-        Annual Meeting of the American Political Science Association: 2024 (Scheduled), 2023, 2022, 2021, 2018, 2017 (Pre-Conference)
-
-        Annual Meeting of the Midwest Political Science Association: 2023
-    
+   
         North American Meeting of the Peace Science Society (International), University of Denver, November 2022
             
         Society for Political Methodology Annual Meeting: 2022, 2021, 2019, 2018, 2017
