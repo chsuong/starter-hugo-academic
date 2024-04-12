@@ -283,6 +283,8 @@ sections:
  
        Annual Meeting of the American Political Science Association: 2024 (Scheduled), 2023, 2022, 2021, 2018, 2017 (Pre-Conference)
 
+        Hack n Yack, Virginia Tech, 2024 (Scheduled)
+
         Annual Meeting of the Midwest Political Science Association: 2024 (Scheduled), 2023
  
         SOWEPS Workshop, Vanderbilt University,  2024 (Scheduled)
