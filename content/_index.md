@@ -259,7 +259,7 @@ sections:
       
         **Suong, Clara H.** “Authoritarian Media Coverage of International News: The Case of North Korea." Accepted. See an early version at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4559456
 
-        **Suong, Clara H.** “Unnamed but Persuasive: Quasi-Secrecy and Public Support for Foreign Policy." Revise and Resubmit, ISQ.
+        **Suong, Clara H.** “Unnamed but Persuasive: Quasi-Secrecy and Public Support for Foreign Policy." R&R, ISQ.
 
         “Ubiquitous but Inconsistent: Internationalism, Militarism, and IO Influence on Public Opinion in China, Brazil, Japan, and Sweden.” With Scott Desposato and Erik Gartzke. Older version available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4262069. Under Review.
         
@@ -283,11 +283,11 @@ sections:
  
        Annual Meeting of the American Political Science Association: 2024 (Scheduled), 2023, 2022, 2021, 2018, 2017 (Pre-Conference)
 
-        Hack n Yack, Virginia Tech, 2024 (Scheduled)
+        Hack n Yack, Virginia Tech, 2024 
 
-        Annual Meeting of the Midwest Political Science Association: 2024 (Scheduled), 2023
+        Annual Meeting of the Midwest Political Science Association: 2024, 2023
  
-        SOWEPS Workshop, Vanderbilt University,  2024 (Scheduled)
+        SOWEPS Workshop, Vanderbilt University,  2024 
 
         American Political Science Association Virtual Research Group Meeting,  2024 
 
