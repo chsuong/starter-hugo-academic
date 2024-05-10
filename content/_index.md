@@ -264,6 +264,8 @@ sections:
         “Ubiquitous but Inconsistent: International Organizations’ Influence on Public Opinion in China, Brazil, Japan, and Sweden.” With Scott Desposato and Erik Gartzke. Older version available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4262069. Under Review.
         
         “The Pros and Cons of Using Within-Subjects Designs in International Relations Survey Experiments.” With Scott Desposato and Erik Gartzke. Under Review.
+
+        “Public (In)Sensitivity to Territorial Disputes: Evidence from China.” With Scott Desposato and Erik Gartzke.  
         
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/).
