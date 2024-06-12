@@ -265,7 +265,7 @@ sections:
         
         “Rethinking the Tradeoffs of Within-Subjects Designs in International Relations Experiments.” With Scott Desposato and Erik Gartzke. Under Review.
 
-        “Rethinking Public Hawkishness Regarding Territorial Disputes: Evidence from China.” With Scott Desposato and Erik Gartzke.  
+        “Rethinking Public Hawkishness Toward Territorial Disputes: Evidence from China.” With Scott Desposato and Erik Gartzke. Under Review.
         
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/).
