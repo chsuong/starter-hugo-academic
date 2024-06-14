@@ -283,7 +283,9 @@ sections:
       title: Selected Presentations
       text: |-
  
-       Annual Meeting of the American Political Science Association: 2024 (Scheduled), 2023, 2022, 2021, 2018, 2017 (Pre-Conference)
+        Chinese Politics Research in Progress Workshop (Online), 2024 (Scheduled)
+
+        Annual Meeting of the American Political Science Association: 2024 (Scheduled), 2023, 2022, 2021, 2018, 2017 (Pre-Conference)
 
         David Lake Academic Family Reunion Conference, 2024 (Scheduled)
 
