@@ -83,5 +83,5 @@ email: ''
 highlight_name: true
 ---
 
-Clara H. Suong (she/her/hers) is an assistant professor of political science at Virginia Tech. She studies the role of information and individuals in International Relations, using computational, formal, and experimental methods. Her research interests include International Relations, International Security, diplomacy, computational social science, survey experiments, and formal modeling.
+Clara H. Suong (she/her/hers) is an assistant professor of political science at Virginia Tech. She studies the role of information and individuals in International Relations, using computational, formal, and experimental methods. Her broad research interests include International Relations, International Security, diplomacy, computational social science, survey experiments, and formal modeling.
 {style="text-align: justify;"}
