@@ -287,7 +287,7 @@ sections:
 
         Annual Meeting of the American Political Science Association: 2024 (Scheduled), 2023, 2022, 2021, 2018, 2017 (Pre-Conference)
 
-        David Lake Academic Family Reunion Conference, 2024 (Scheduled)
+        David Lake Academic Family Reunion Conference, 2024
 
         Hack n Yack, Virginia Tech, 2024 
 
@@ -307,7 +307,7 @@ sections:
    
         North American Meeting of the Peace Science Society (International), University of Denver, November 2022
             
-        Society for Political Methodology Annual Meeting: 2022, 2021, 2019, 2018, 2017
+        Society for Political Methodology Annual Meeting (Poster): 2024, 2022, 2021, 2019, 2018, 2017
         
         National Security Institute, Virginia Tech (Virtual), February 2022
         
