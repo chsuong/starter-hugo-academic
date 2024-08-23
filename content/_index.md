@@ -263,7 +263,7 @@ sections:
 
         “Ubiquitous but Heterogenenous: International Organizations’ Influence on Public Opinion in China, Brazil, Japan, and Sweden” With Scott Desposato and Erik Gartzke. Older version available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4262069. R&R, IR of the Asia-Pacific.
         
-        “Rethinking the Tradeoffs of Within-Subjects Designs in International Relations Experiments.” With Scott Desposato and Erik Gartzke. Under Review.
+        “Rethinking the Tradeoffs of Within-Subjects Designs in International Relations Experiments.” With Scott Desposato and Erik Gartzke. Under Review. Early draft available at: https://osf.io/preprints/socarxiv/rn38x
 
         “Public Hawkishness Toward Territorial Disputes: Evidence from China.” With Scott Desposato and Erik Gartzke. Under Review.
 
