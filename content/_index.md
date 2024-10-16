@@ -267,7 +267,7 @@ sections:
 
         “Public Hawkishness Toward Territorial Disputes: Evidence from China.” With Scott Desposato and Erik Gartzke. Under Review.
 
-        “Volatile and Impersistent Cue Effect: Evidence from Public Responses to International Organizations.” With Scott Desposato and Erik Gartzke. 
+        “Unstable and Impersistent Cue Effect: Evidence from Public Responses to International Organizations.” With Scott Desposato and Erik Gartzke. 
         
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/).
