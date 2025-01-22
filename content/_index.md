@@ -265,9 +265,9 @@ sections:
         
         “Rethinking the Tradeoffs of Within-Subjects Designs in International Relations Experiments.” With Scott Desposato and Erik Gartzke. Under Review. Early draft available at: https://osf.io/preprints/socarxiv/rn38x
 
-        “Public Hawkishness Toward Territorial Disputes: Evidence from China.” With Scott Desposato and Erik Gartzke. Under Review.
+        “Territory-Specific Hawks and Doves: Rethinking Issue Salience in International Conflicts.” With Scott Desposato and Erik Gartzke. Under Review.
 
-        “Unstable and Impersistent Cue Effect: Evidence from Public Responses to International Organizations.” With Scott Desposato and Erik Gartzke.
+        “Unstable: Evidence from Public Responses to International Organizations’ Cues.” With Scott Desposato and Erik Gartzke.
 
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/).
