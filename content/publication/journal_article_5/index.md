@@ -20,7 +20,7 @@ publication_types: ["2"]
 # Publication name and optional abbreviated publication name.
 publication: "*International Relations of the Asia-Pacific*"
 publication_short: ""
-pages: lcae018
+pages: "lcae018"
 
 abstract: Existing work on the effect of international organizations' (IOs) approval of the use of force on public support for it tends to focus on the established great powers in the Global North and its positive main effect. In this research note, we contribute to this literature in two ways with a survey experiment conducted in four countries: Brazil, China, Japan, and Sweden. First, we examine the generalizability of existing findings to relatively understudied countries that include aspiring great powers in the Global South. Second, we examine the heterogeneity of the effect of IOs' authorization of the use of force. We confirm the generalizability of the positive effect of IOs' approval on public support for war. At the same time, we find that individuals' positive responses to IOs' endorsement are heterogeneous and vary by their beliefs in militant internationalism and educational attainment, and by their home country.
 
