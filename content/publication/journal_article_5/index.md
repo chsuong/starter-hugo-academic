@@ -35,7 +35,7 @@ links:
 # - name: ""
 #   url: ""
 url_pdf: 'uploads/suong_et_al_2024.pdf'
-# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 # url_dataset: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/PA45UO'
 # url_poster: ''
 # url_project: ''
