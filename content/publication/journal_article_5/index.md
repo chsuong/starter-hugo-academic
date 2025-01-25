@@ -1,5 +1,5 @@
 ---
-title: "Ubiquitous but Heterogeneous: International Organizations' Influence on Public Opinion in China, Brazil, Japan, and Sweden"
+title: "Ubiquitous but Heterogeneous: International Organizations’ Influence on Public Opinion in China, Brazil, Japan, and Sweden"
 authors:
 - admin
 - Scott Desposato
