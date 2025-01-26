@@ -261,7 +261,7 @@ sections:
 
         **Suong, Clara H.** “Unnamed but Persuasive: Quasi-Secrecy and Public Support for Foreign Policy." R&R, ISQ.
 
-        “Ubiquitous but Heterogenenous: International Organizations’ Influence on Public Opinion in China, Brazil, Japan, and Sweden” With Scott Desposato and Erik Gartzke. Older version available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4262069. Accepted, International Relations of the Asia-Pacific.
+#        “Ubiquitous but Heterogenenous: International Organizations’ Influence on Public Opinion in China, Brazil, Japan, and Sweden” With Scott Desposato and Erik Gartzke. Older version available at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4262069. Accepted, International Relations of the Asia-Pacific.
         
         “Rethinking the Tradeoffs of Within-Subjects Designs in International Relations Experiments.” With Scott Desposato and Erik Gartzke. Under Review. Early draft available at: https://osf.io/preprints/socarxiv/rn38x
 
