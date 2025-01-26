@@ -283,7 +283,11 @@ sections:
       title: Selected Presentations
       text: |-
  
-        Chinese Politics Research in Progress Workshop (Online), 2024 (Scheduled)
+        Virtual IPES (Online), Scheduled 2025
+
+        Annual Meeting of the International Studies Association:  2025 (Scheduled), 2024, 2022
+
+        Chinese Politics Research in Progress Workshop (Online), 2024
 
         Annual Meeting of the American Political Science Association: 2024, 2023, 2022, 2021, 2018, 2017 (Pre-Conference)
 
