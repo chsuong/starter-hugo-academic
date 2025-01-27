@@ -343,6 +343,8 @@ sections:
         
         National Security, Virginia Tech
         
+        Research Methods (Undergraduate), Virginia Tech
+
         Research Methods II (Graduate), Virginia Tech
         
         Data Analytics for the Social Sciences (cross-listed in Economics), UC San Diego
