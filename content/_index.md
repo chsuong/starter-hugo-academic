@@ -265,7 +265,7 @@ sections:
 
         “Territory-Specific Hawks and Doves: Rethinking Issue Salience in International Conflicts.” With Scott Desposato and Erik Gartzke. Under Review.
 
-        “Unstable: Evidence from Public Responses to International Organizations’ Cues.” With Scott Desposato and Erik Gartzke.
+        “Inconsistent Cue Effects:: Evidence from Public Responses to International Organizations’ Cues.” With Scott Desposato and Erik Gartzke. R&R, Review of International Organizations
 
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/).
