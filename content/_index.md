@@ -261,7 +261,7 @@ sections:
 
         **Suong, Clara H.** “Unnamed but Persuasive: Quasi-Secrecy and Public Support for Foreign Policy." R&R, ISQ.
         
-        “Rethinking the Tradeoffs of Within-Subjects Designs in International Relations Experiments.” With Scott Desposato and Erik Gartzke. Under Review. Early draft available at: https://osf.io/preprints/socarxiv/rn38x
+        “Contextualizing Global Issue Salience.” Submitted.
 
         “Propaganda and Territorial Salience in International Conflicts.” With Scott Desposato and Erik Gartzke. Submitted.
 
