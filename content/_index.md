@@ -283,7 +283,7 @@ sections:
       title: Selected Presentations
       text: |-
  
-        Virtual IPES (Online), Scheduled 2025
+        Virtual IPES (Online), 2025
 
         Annual Meeting of the International Studies Association:  2025 (Scheduled), 2024, 2022
 
