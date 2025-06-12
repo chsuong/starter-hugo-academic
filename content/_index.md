@@ -283,19 +283,19 @@ sections:
       title: Selected Presentations
       text: |-
  
+        Annual Meeting of the American Political Science Association: 2025 (Scheduled), 2024, 2023, 2022, 2021, 2018, 2017 (Pre-Conference)
+
         Virtual IPES (Online), 2025
 
-        Annual Meeting of the International Studies Association:  2025 (Scheduled), 2024, 2022
+        Annual Meeting of the International Studies Association:  2025, 2024, 2022
+
+        Annual Meeting of the Midwest Political Science Association: 2025, 2024, 2023
 
         Chinese Politics Research in Progress Workshop (Online), 2024
-
-        Annual Meeting of the American Political Science Association: 2024, 2023, 2022, 2021, 2018, 2017 (Pre-Conference)
 
         David Lake Academic Family Reunion Conference, 2024
 
         Hack n Yack, Virginia Tech, 2024 
-
-        Annual Meeting of the Midwest Political Science Association: 2024, 2023
  
         SOWEPS Workshop, Vanderbilt University,  2024 
 
