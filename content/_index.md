@@ -265,7 +265,7 @@ sections:
 
         “Propaganda and Territorial Salience in International Conflicts.” With Scott Desposato and Erik Gartzke. Submitted.
 
-        “Inconsistent Cue Effects: Evidence from Public Responses to International Organizations’ Cues.” With Scott Desposato and Erik Gartzke. R&R, Review of International Organizations
+#        “Inconsistent Cue Effects: Evidence from Public Responses to International Organizations’ Cues.” With Scott Desposato and Erik Gartzke. R&R, Review of International Organizations
 
 #        {{% callout note %}}
 #        Quickly discover relevant content by [filtering publications](./publication/).
