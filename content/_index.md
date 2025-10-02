@@ -263,8 +263,8 @@ sections:
         
         “Contextualizing Global Issue Salience.” Submitted.
 
-        “Propaganda and Territorial Salience in International Conflicts.” With Scott Desposato and Erik Gartzke. Submitted.
-
+#        “Propaganda and Territorial Salience in International Conflicts.” With Scott Desposato and Erik Gartzke. Submitted.
+#
 #        “Inconsistent Cue Effects: Evidence from Public Responses to International Organizations’ Cues.” With Scott Desposato and Erik Gartzke. R&R, Review of International Organizations
 
 #        {{% callout note %}}
