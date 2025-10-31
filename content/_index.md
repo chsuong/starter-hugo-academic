@@ -259,7 +259,7 @@ sections:
       
         **Suong, Clara H.** “Authoritarian Media Coverage of International News: The Case of North Korea." Accepted. See an early version at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4559456
 
-        **Suong, Clara H.** “Unnamed but Persuasive: Quasi-Secrecy and Public Support for Foreign Policy." Conditionally Accepted, ISQ.
+        **Suong, Clara H.** “Unnamed but Persuasive: Quasi-Secrecy and Public Support for Foreign Policy." Accepted, ISQ.
         
         “Contextualizing Global Issue Salience.” Submitted.
 
