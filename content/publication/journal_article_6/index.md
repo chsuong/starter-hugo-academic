@@ -17,7 +17,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*International Studies Quarterly*"
-publication_short: "ISQ"
+publication_short: ""
 pages: ""
 
 abstract: "How does quasi-secrecy—the selective revelation of foreign policy secrets—affect public attitudes toward the use of force by democracies? Existing research on secrecy and on public attitudes toward war has yet to consider the role of quasi-secrecy, such as unattributable communication by unnamed bureaucrats, in affecting public opinion about military action. I argue that unattributable communication can boost public support for the use of force by rallying individuals to infer policy success. My analyses of two survey experiments on nationally representative samples show that anonymous bureaucrats’ unattributable messages can rally individuals around a government’s use of covert action, relative to attributable messages. I also find that the positive effect of unattributable communication is informational, rather than partisan. The positive effect stems from its interaction with the audience’s inferences about success, rather than the political attributes of the source or the audience. By problematizing the previously understudied topic of quasi-secrecy in conflict processes, this paper contributes to existing literature on secrecy and on public opinion about foreign policy and generates important policy implications about the democratic foreign policymaking process."
