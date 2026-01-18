@@ -259,7 +259,7 @@ sections:
       
         **Suong, Clara H.** “Authoritarian Media Coverage of International News: The Case of North Korea." Accepted. See an early version at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4559456
 
-        **Suong, Clara H.** “Unnamed but Persuasive: Quasi-Secrecy and Public Support for Foreign Policy." Accepted, ISQ.
+#        **Suong, Clara H.** “Unnamed but Persuasive: Quasi-Secrecy and Public Support for Foreign Policy." Accepted, ISQ.
         
         “Contextualizing Global Issue Salience.” Submitted.
 
@@ -283,13 +283,13 @@ sections:
       title: Selected Presentations
       text: |-
  
-        Annual Meeting of the American Political Science Association: 2025 (Scheduled), 2024, 2023, 2022, 2021, 2018, 2017 (Pre-Conference)
+        Annual Meeting of the International Studies Association:  2026 (Scheduled), 2025, 2024, 2022
+
+        Annual Meeting of the Midwest Political Science Association: 2026 (Scheduled), 2025, 2024, 2023
+    
+        Annual Meeting of the American Political Science Association: 2025, 2024, 2023, 2022, 2021, 2018, 2017 (Pre-Conference)
 
         Virtual IPES (Online), 2025
-
-        Annual Meeting of the International Studies Association:  2025, 2024, 2022
-
-        Annual Meeting of the Midwest Political Science Association: 2025, 2024, 2023
 
         Chinese Politics Research in Progress Workshop (Online), 2024
 
