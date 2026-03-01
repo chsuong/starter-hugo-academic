@@ -284,7 +284,7 @@ sections:
  
         Annual Meeting of the International Studies Association:  2026 (Scheduled), 2025, 2024, 2022
 
-        Annual Meeting of the Midwest Political Science Association: 2026 (Scheduled), 2025, 2024, 2023
+        Annual Meeting of the Midwest Political Science Association: 2025, 2024, 2023
     
         Annual Meeting of the American Political Science Association: 2025, 2024, 2023, 2022, 2021, 2018, 2017 (Pre-Conference)
 
