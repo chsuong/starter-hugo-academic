@@ -1,4 +1,3 @@
----
 # Leave the homepage title empty to use the site title
 title:
 date: 2022-10-24
@@ -259,9 +258,9 @@ sections:
       
         **Suong, Clara H.** “Authoritarian Media Coverage of International News: The Case of North Korea." Accepted. See an early version at SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4559456
 
-        “Contextualizing Global Issue Salience.” Submitted.
+        “Contextualizing Global Issue Salience.” 
 
-#        **Suong, Clara H.** “Unnamed but Persuasive: Quasi-Secrecy and Public Support for Foreign Policy." Accepted, ISQ.
+        "Unconstrained Doves and Unconstrained Hawks: How Issues Shape Foreign Policy Attitude Constraint."
 #        “Propaganda and Territorial Salience in International Conflicts.” With Scott Desposato and Erik Gartzke. Submitted.
 #
 #        “Inconsistent Cue Effects: Evidence from Public Responses to International Organizations’ Cues.” With Scott Desposato and Erik Gartzke. R&R, Review of International Organizations
